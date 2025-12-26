@@ -1,0 +1,5 @@
+{
+  "name": "Titan - Interactive Periodic Table",
+  "description": "A comprehensive, interactive periodic table exploring all 118 elements with atomic details, electron shells (K,L,M,N), valency, and AI-powered compound formula analysis.",
+  "requestFramePermissions": []
+}
